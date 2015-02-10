@@ -16,6 +16,6 @@
   "dependencies": {
     "lodash": "^3.1.0",
     "q": "^1.1.2",
-    "run-once-resolve-all": "git+ssh://git@bitbucket.org/lesbandits/run-once-resolve-all.git"
+    "run-once-resolve-all": "git+ssh://git@bitbucket.org:lesbandits/create-once-resolve-all.git"
   }
 }
