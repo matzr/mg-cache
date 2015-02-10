@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^3.1.0",
+    "mongodb": "^1.4.30",
     "q": "^1.1.2",
     "run-once-resolve-all": "git+ssh://git@bitbucket.org:lesbandits/create-once-resolve-all.git"
   }
