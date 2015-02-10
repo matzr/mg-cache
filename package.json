@@ -1,0 +1,21 @@
+{
+  "name": "mg-cache",
+  "version": "1.0.0",
+  "description": "Simple cache with memory or Mongo variants",
+  "main": "mg-cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cache",
+    "memory",
+    "mongo"
+  ],
+  "author": "Mathieu Gardere",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.1.0",
+    "q": "^1.1.2",
+    "run-once-resolve-all": "file:../../../../../../var/folders/c8/dmyw86k11td3f3dh8dyv07mr0000gn/T/npm-46475-95e4fa00/git-cache-5b900a68e92c/7389457d4a349a647051c34cd92f4739b87940e2"
+  }
+}
